@@ -1,3 +1,3 @@
-# Elementary
-An interactive periodic table in Processing
-![alt tag](http://i.imgur.com/4m0bEN3.png)
+# Curve Stitching
+An interactive curve stitcher written in Processing
+![alt tag](http://i.imgur.com/YfXUTVy.png)
